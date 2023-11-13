@@ -1,0 +1,10 @@
+Nome: luis, Nota1: 2.00, Nota2: 3.00, Media: 2.50
+Nome: anna, Nota1: 5.00, Nota2: 5.00, Media: 5.00
+Nome: Tamires, Nota1: 6.00, Nota2: 4.00, Media: 5.00
+Nome: bibi, Nota1: 1.00, Nota2: 2.00, Media: 1.50
+Nome: LARISSA, Nota1: 3.00, Nota2: 2.00, Media: 2.50
+Nome: ,562, Nota1: 456.00, Nota2: 132.00, Media: 294.00
+Nome: nao, Nota1: 456.00, Nota2: 132.00, Media: 294.00
+Nome: sei, Nota1: 456.00, Nota2: 132.00, Media: 294.00
+Nome: dfsfad1fa, Nota1: 32.00, Nota2: 132.00, Media: 82.00
+Nome: sd1f, Nota1: 32.00, Nota2: 132.00, Media: 82.00
